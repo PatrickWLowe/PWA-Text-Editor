@@ -2,7 +2,7 @@
 
 # PWA-Text-Editor
 
-## By: Patrick Lowe
+## [Patrick Lowe](https://github.com/PatrickWLowe)
 
 ## Description
 
@@ -58,15 +58,21 @@ THEN I should have proper build scripts for a webpack application
 
 ## License
 
-This project is licensed under the MIT License
+## This project is licensed under the MIT License
+
 [MIT](https://opensource.org/licenses/MIT)
 
-### GitHub UserName
+## Screenshots of the APP
 
-#### [PatrickWLowe](https://github.com/PatrickWLowe)
+![Deployed Webpage Screenshot](./images/ScreenshotPWA1.png)
+![Deployed Webpage Screenshot](./images/Screenshot%202023-08-30%20122606.png)
+
+## Deployed application URL
+
+### https://glacial-badlands-28438-983411de9305.herokuapp.com/
 
 ## References
 
-##
+## https://stackoverflow.com/questions/69498498/how-to-save-data-with-pwa
 
-##
+## https://stackoverflow.com/questions/58985103/progressive-web-app-not-showing-install-button-in-browser-bar
